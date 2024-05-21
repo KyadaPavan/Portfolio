@@ -59,7 +59,7 @@ const Hero = () => {
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi! I&apos;m Pavan, A passionately driven MERN stack developer,
-            Let's collaborate and craft something truly extraordinary together!
+            Let&apos;s collaborate and craft something truly extraordinary together!
           </p>
 
           <a href="#projects">
